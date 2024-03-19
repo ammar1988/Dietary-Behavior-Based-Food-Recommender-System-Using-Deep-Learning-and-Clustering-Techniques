@@ -1,4 +1,4 @@
-# Dietary-Behavior-Based-Food-Recommender-System
+# Dietary-Behavior-Based-Food-Recommender-System-Using-Deep-Learning-and-Clustering-Techniques
 
 Dietary Behavior Based Food Recommender System Using Deep Learning and Clustering Techniques 
 
