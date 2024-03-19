@@ -10,7 +10,7 @@ This work proposed a food recommender system, which tries to find users with sim
 https://doi.org/10.31185/wjcm.126
 
 # Dataset
-Downloaded from: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data
+https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data
 
 # Github Reference
 https://github.com/RaptorMai/Deep-AutoEncoder-Recommendation
